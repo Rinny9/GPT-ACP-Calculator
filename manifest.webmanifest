@@ -1,0 +1,19 @@
+{
+  "name": "ACP Field Calc — ALS PCS 5.4",
+  "short_name": "ACP Field Calc",
+  "description": "Offline clinical calculation and directive reference for Ontario ALS PCS 5.4.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#08101f",
+  "theme_color": "#3d63d8",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
